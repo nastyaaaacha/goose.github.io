@@ -1,0 +1,24 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #dbd0ff;
+}
+.rrr {
+    text-align: center;
+
+}
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#canvas {
+    width: 650px;
+    height: 220px;
+    border-bottom: 3px solid #65d33d;
+}
