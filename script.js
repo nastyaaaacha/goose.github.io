@@ -19,7 +19,7 @@ let dino = {
     x:30,
     y:165,
     w:50,
-    h:55,
+    h:20,
 }
 
 const cactus1Img = new Image();
@@ -29,7 +29,7 @@ let cactus1 = {
     x: getRandomInt(400,500),
     y:167,
     w:55,
-    h:55,
+    h:20,
 
 }
 
